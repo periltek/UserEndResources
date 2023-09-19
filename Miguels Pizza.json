@@ -5,12 +5,8 @@
     "Notification": "0",
     "Address": "1890 Natural Bridge Rd, Slade, KY 40376",
     "PhoneNumber": "(606) 663-1975",
-    "mainSite": "www.miguelspizza.com",
+    "MainSite": "",
     "DescriptionPanel": "Established on September 23rd, in 1983, Miguel's Pizza has become a well known hangout for Gorge Goers, in combination with being a popular campground.",
     "SpecialOfferMenuTitle": "Free Pizza",
-    "SpecialOfferDetails": "Free Pizza followed by music, in celebration of Miguel’s 40th anniversary",
-    "ambientTemp": 76.30000305175781,
-    "waterTemp": 56.20000076293945,
-    "skyPhotoUrl": "",
-    "skyPhoto360url": ""
+    "SpecialOfferDetails": "Free Pizza followed by music, in celebration of Miguel’s 40th anniversary"
 }
