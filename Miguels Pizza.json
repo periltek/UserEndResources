@@ -6,35 +6,11 @@
     "Address": "1890 Natural Bridge Rd, Slade, KY 40376",
     "PhoneNumber": "(606) 663-1975",
     "mainSite": "www.miguelspizza.com",
-    "DescriptionPanel": "Migel's makes a great pizza GH",
-    "ambientTemp": 0.0,
-    "waterTemp": 0.0,
+    "DescriptionPanel": "Established September 23rd, 1983, Miguel's Pizza has become a staple, known well in the Red River Gorge.",
+    "SpecialOfferMenuTitle": "Free Pizza",
+    "SpecialOfferDetails": "Free Pizza, Sept 23",
+    "ambientTemp": 76.30000305175781,
+    "waterTemp": 56.20000076293945,
     "skyPhotoUrl": "",
-    "skyPhoto360url": "",
-    "roadLevel": {
-        "instanceID": 0
-    },
-    "fogLevel": {
-        "instanceID": 0
-    },
-    "buildinglevel": {
-        "instanceID": 0
-    },
-    "lowSky": {
-        "instanceID": 0
-    },
-    "midSky": {
-        "instanceID": 0
-    },
-    "highSky": {
-        "instanceID": 0
-    },
-    "orbit": {
-        "instanceID": 0
-    },
-    "moon": {
-        "instanceID": 0
-    },
-    "vTourPoints": [],
-    "galleryUrls": []
+    "skyPhoto360url": ""
 }
