@@ -8,5 +8,10 @@
     "MainSite": "",
     "DescriptionPanel": "Established on September 23rd, in 1983, Miguel's Pizza has become a well known hangout for Gorge Goers, in combination with being a popular campground.",
     "SpecialOfferMenuTitle": "Free Pizza",
-    "SpecialOfferDetails": "Free Pizza followed by music, in celebration of Miguel’s 40th anniversary"
+    "SpecialOfferDetails": "Free Pizza followed by music, in celebration of Miguel’s 40th anniversary",
+    "altImageLanding": "",
+    "v360": [
+        "https://www.youtube.com/watch?v=wBUQppVsMp0",
+        "https://www.youtube.com/watch?v=YDlJEuLETs8"
+    ]
 }
