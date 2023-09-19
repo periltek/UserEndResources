@@ -1,11 +1,12 @@
 {
     "Name": "Miguels Pizza",
     "Hours": "7 am - 9:30 pm",
+    "HoursExtended": "Open 7 days a week, from 7 am - 9:30 pm",
     "Description": "Pizza",
     "Notification": "0",
     "Address": "1890 Natural Bridge Rd, Slade, KY 40376",
     "PhoneNumber": "(606) 663-1975",
-    "MainSite": "",
+    "MainSite": "www.miguelspizza.com",
     "DescriptionPanel": "Established on September 23rd, in 1983, Miguel's Pizza has become a well known hangout for Gorge Goers, in combination with being a popular campground.",
     "SpecialOfferMenuTitle": "Free Pizza",
     "SpecialOfferDetails": "Free Pizza followed by music, in celebration of Miguel’s 40th anniversary",
