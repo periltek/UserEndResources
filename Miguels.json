@@ -1,0 +1,24 @@
+{
+    "display": true,
+    "updateTime": "1304",
+    "updateNotes": "Just a Test",
+    "location": "Test Store",
+    "address": "Update their address",
+    "phone": "6066683542",
+    "email": "periltek@gmail.com",
+    "website": "www.periltek.com",
+    "fog": true,
+    "ice": false,
+    "wet": true,
+    "smoke": false,
+    "clear": true,
+    "overcast": false,
+    "rain": false,
+    "sleet": false,
+    "hail": true,
+    "snow": false,
+    "cosmic": false,
+    "notices": [
+        "20% Off Store Wide"
+    ]
+}
